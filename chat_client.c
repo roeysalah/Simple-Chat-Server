@@ -1,27 +1,8 @@
 
 
-
-
-
-
-
-
-
-
 /*
- * chat_client.c
- *
- *  Created on: Jun 8, 2021
- *      Author: ubu
+ tcp_rx.c
  */
-
-/*
- * tcp_rx.c
- *
- *  Created on: Jun 7, 2021
- *      Author: ubu
- */
-
 
 #include <stdio.h>
 #include <sys/socket.h>
