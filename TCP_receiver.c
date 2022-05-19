@@ -1,4 +1,4 @@
-/*tcp_receiver
+#tcp_receiver
 
 #include <sys/types.h>
 #include <sys/socket.h>
